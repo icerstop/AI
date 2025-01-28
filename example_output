@@ -1,0 +1,21 @@
+cuda:0
+Epoch 1, Val Accuracy: 0.9585
+Epoch 2, Val Accuracy: 0.9768
+Epoch 3, Val Accuracy: 0.9820
+Epoch 4, Val Accuracy: 0.9843
+Epoch 5, Val Accuracy: 0.9843
+Epoch 6, Val Accuracy: 0.9872
+Epoch 7, Val Accuracy: 0.9857
+Epoch 8, Val Accuracy: 0.9902
+Epoch 9, Val Accuracy: 0.9892
+Epoch 10, Val Accuracy: 0.9882
+Epoch 11, Val Accuracy: 0.9885
+Epoch 12, Val Accuracy: 0.9910
+Epoch 13, Val Accuracy: 0.9913
+Epoch 14, Val Accuracy: 0.9900
+Epoch 15, Val Accuracy: 0.9905
+Epoch 16, Val Accuracy: 0.9897
+Epoch 17, Val Accuracy: 0.9907
+Epoch 18, Val Accuracy: 0.9895
+Early stopping after 18 epochs
+Test Accuracy: 0.9923
